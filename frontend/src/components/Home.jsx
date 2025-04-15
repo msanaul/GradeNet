@@ -19,7 +19,7 @@ const Home = () => {
     <div className="flex flex-col justify-center items-center min-h-screen bg-green-100">
       <div className="bg-white p-8 rounded-lg shadow-lg w-full max-w-md">
         <h1 className="text-5xl mt-9 text-green-500 font-semibold pb-12">
-            CheckMyAnswer
+            GradeNet
         </h1>
         <div className="text-lg mb-8">
           <p>{text}</p>
