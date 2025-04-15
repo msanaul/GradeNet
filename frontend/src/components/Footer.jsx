@@ -7,8 +7,8 @@ const Footer = () => {
         <div className="text-white text-md">
           <span className="text-center">
             {" "}
-            Copyright © 2024 Designed by Mohak, Danish, Imran and Mukesh
-            {/* Copyright © 2024 Designed by Md Nadeem Khan */}
+            Copyright © 2024 Designed by Mohak, Sanaul, Imran and Mukesh
+            {}
           </span>
         </div>
       </div>
