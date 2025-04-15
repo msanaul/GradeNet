@@ -7,7 +7,7 @@ function Navbar() {
         <div className="flex items-center">
           <span className="text-white text-lg font-semibold">
             <Link to="/" className="text-white mr-4">
-              CheckMyAnswer
+              GradeNet
             </Link>
           </span>
         </div>
